@@ -1,0 +1,280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great mens advantages and obligations to religion represented in a sermon preached before the King, in the chapel at St. James's, July the 17th, 1698 / by Henry Hesketh ...</title>
+            <author>Hesketh, Henry, 1637?-1710.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43452</idno>
+            <idno type="STC">Wing H1611</idno>
+            <idno type="STC">ESTC R12140</idno>
+            <idno type="EEBO-CITATION">13016554</idno>
+            <idno type="OCLC">ocm 13016554</idno>
+            <idno type="VID">96547</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43452)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96547)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 741:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great mens advantages and obligations to religion represented in a sermon preached before the King, in the chapel at St. James's, July the 17th, 1698 / by Henry Hesketh ...</title>
+                  <author>Hesketh, Henry, 1637?-1710.</author>
+               </titleStmt>
+               <extent>[2], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.L. for Walter Kettleby ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96547:1"/>
+            <p>Great Mens Advantages AND Obligations to RELIGION: Repreſented in a SERMON Preached before the KING, IN The Chapel at St. <hi>JAMES</hi>'s, JULY the 17<hi rend="sup">th.</hi> 1698.</p>
+            <p>By <hi>HENRY HESKETH,</hi> Chaplain in Ordinary to His MAJESTY.</p>
+            <p>Printed by the King's Special Command.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. L.</hi> for <hi>Walter Kettleby,</hi> at the <hi>Biſhop</hi>'s-<hi>Head</hi> in St. <hi>Paul</hi>'s <hi>Church-Yard,</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:96547:2"/>
+            <pb n="1" facs="tcp:96547:2"/>
+            <epigraph>
+               <bibl>
+                  <hi>JER.</hi> v. 5.</bibl>
+               <q>I will get me to the great men, and will ſpeak unto them: for they have known the way of the Lord, and the judgment of their God.</q>
+            </epigraph>
+            <p>IT was at a time of the greateſt Degeneracy of the <hi>Jewiſh</hi> Church and Nation, and a little be<g ref="char:EOLhyphen"/>fore the <hi>Babyloniſh</hi> Captivity, that theſe words were ſpoken by our Prophet: And the Occa<g ref="char:EOLhyphen"/>ſion was this;</p>
+            <p>The moſt merciful and good God, to ſhew how willing, and even deſirous he was to ſpare that wretched and rebellious People, condeſcends to ſuch a Condition to do it upon, as (I am perſuaded) the moſt compaſſionate Man living could hardly have had the face to propoſe to him: <hi>Run ye to and fro through the ſtreets of Jeruſalem, and ſee now and know, and ſeek in the broad places thereof, if ye can find one man, if there be any that executeth judgment, and ſeeketh the truth, and I will pardon it,</hi> ver. 1.</p>
+            <p>It was and will be for ever celebrated and adored, as a mighty Inſtance of God's Mercy, and readineſs to ſpare Sinners, that he offered to ſpare <hi>Sodom</hi> and <hi>Gomorrha,</hi> if <hi>Ten</hi> righteous Perſons could be found therein; and it was as much as even <hi>Abraham</hi> (when ſo much encouraged in his Applications for Mercy) had the confidence to beg of him.</p>
+            <pb n="2" facs="tcp:96547:3"/>
+            <p>But ſurely it was much more, to offer to ſpare a whole Nation, if but <hi>One</hi> ſuch could be found in it: And it is not eaſie perhaps to ſay, whether the Mercy of God in the Offer were more ſurpriſing, or the Demerits of that People, that could not come up to ſo eaſie a Condition, the more aſtoniſhing. How<g ref="char:EOLhyphen"/>ever it were, God's Mercy is highly exalted in the one, and his Juſtice ſufficiently vindicated even in his ſharpeſt Inflictions upon the reaſon of the other.</p>
+            <p>We may reaſonably ſuppoſe the good Prophet thought this a moſt gracious Offer in God, and conceived ſome good Hopes upon the reaſon of it, that his People might be ſaved, and the impendent Judgment averted; and therefore he undertakes the Inqueſt, in hopes that he might find ſome <hi>One</hi> Perſon to <hi>ſtand in the gap,</hi> and whoſe Righteouſneſs might ſave his Nation from Deſtruction and Ruine.</p>
+            <p>To that end, he begins his Search in the <hi>Streets,</hi> and in the <hi>Broad places,</hi> in the places of common con<g ref="char:EOLhyphen"/>courſe, and in the crowds of the populace; and what the ſucceſs of his ſearch was there, he tells us, <hi>ver.</hi> 2, 3. Falſhood and Perjury, Injuſtice and Fraud, and an obſtinate courſe of Wickedneſs, without fear, remorſe, or any hopes of amendment.</p>
+            <p>This, no doubt, was a great mortification and grief to the good Man: but yet he comforts himſelf under it, by conſidering that <hi>theſe were poor,</hi> and ſo wholly immerſed in worldly Buſineſs, that they had little regard to Religion, little knowledge of God, and much could not be expected from them.</p>
+            <p>But he ſeems to have greater hopes of ſucceeding in his ſearch among the Honourable and the Noble; <hi>I will
+<pb n="3" facs="tcp:96547:3"/> get me to the Great Men, and ſpeak unto them: for ſurely they have known the way of the Lord, and the judgment of their God.</hi>
+            </p>
+            <p>This is the Connexion of theſe words, and this the Occaſion upon which they were ſpoken: And I have choſen to ſpeak to them at this time, not to frighten any Man by telling ſtories of our preſent Danger, and parallelling our caſe with that of the <hi>Jews</hi> at this time; nor take occaſion to make any Tragical Out<g ref="char:EOLhyphen"/>cryes againſt the Degeneracy of all ſorts of Men among us at this day, much leſs of Thoſe to whom I have now preſumed to ſpeak. This, perhaps would be deemed too ruſtick an Addreſs for a Court, and (as it was ſaid to <hi>Amos</hi>) that which a <hi>King's Chapel</hi> would hardly bear.</p>
+            <p>I would much rather chuſe to imitate (though I can ne'er hope to equal) the Rhetorick of St. <hi>Paul</hi> to King <hi>Agrippa,</hi> who counted it the moſt becom<g ref="char:EOLhyphen"/>ing way to perſuade him to believe the Pro<g ref="char:EOLhyphen"/>phets, to ſeem confident that he did; and, with the Prophet in this place, to preſume upon the Religion of thoſe that hear me, rather than ſeem ſo much as to think there is any reaſon to reproach them with want of it.</p>
+            <p>Thus far I hope I may be allowed to go without offence, and enquire what probable Reaſons the Pro<g ref="char:EOLhyphen"/>phet had, for his hope to find <hi>one</hi> good Man, at leaſt, among the <hi>Jewiſh</hi> Nobility; and what better reaſon I have to hope to find, not only <hi>one,</hi> but many, even all ſuch among thoſe to whom I have the Ho<g ref="char:EOLhyphen"/>nour now to ſpeak.</p>
+            <p>The Probability of this, I ſhall found upon theſe Two General Reaſons:</p>
+            <p n="1">
+               <pb n="4" facs="tcp:96547:4"/>I. The <hi>Advantages</hi> that <hi>Great Men</hi> enjoy, to the Purpoſes of Religion.</p>
+            <p n="2">II. The <hi>Obligations</hi> that they lie under to regard it, above thoſe that plod in the <hi>ſtreets,</hi> and crowd the <hi>broad places.</hi>
+            </p>
+            <p>And if I may beg the Patience of this Great Au<g ref="char:EOLhyphen"/>dience, while I inſtance Three Particulars of each of theſe, I ſhall not preſume to put it to any greater ſtreſs at this time.</p>
+            <p>
+               <hi>Firſt,</hi> I begin with the Firſt; The <hi>Advantages</hi> to Religion that <hi>Great Men</hi> enjoy above others. I ſhall only inſtance (as I ſaid) Three of theſe, among many others.
+<list>
+                  <item>(1.) That of Natural Temper and Conſtitution.</item>
+                  <item>(2.) That of Generous, Timely Education.</item>
+                  <item>(3.) That of Time and Leiſure, from the neceſſary Incumbrances and Cares of other Men.</item>
+               </list>
+            </p>
+            <p n="1">1. The Firſt Advantage to Religion that I have named, is that of Natural Temper and Conſtitution: Which though it may ſeem a little mean thing to ſome, yet is perhaps as worthy of conſideration in this caſe, as any other.</p>
+            <p>Every Man is wonderfully and <hi>curiouſly</hi> made, as the holy Pſalmiſt hath obſerved long ſince: but per<g ref="char:EOLhyphen"/>haps <hi>Great Men</hi> may be ſaid to be ſo in ſome reſpects above others, their Blood being generally ſaid to be more refined, and their Bodies of a finer Mould than thoſe of meaner Men.</p>
+            <p>There is more ſenſe in that common Adage (<hi>naſci à principibus,</hi> &amp;c.) than is commonly taken notice of;
+<pb n="5" facs="tcp:96547:4"/> and it may be, happineſs of Natural Temper may be one reaſon upon which it hath been ſpoken, as well as ſome others.</p>
+            <p>The Iſſues as well as Flights of <hi>Eagles</hi> and <hi>Jays</hi> (ſaith the Greek Proverb) are very different: And we ſee it true, all Creatures naturally inſtance the Seminal Vertues and Properties of their Progenitors; and it is commonly ſeen to be ſo in the preſent caſe of Perſons honourably extracted; their very Natural Tempers and Humours are more tender, ſoft, and ductile, than thoſe of a courſer grain.</p>
+            <p>Now ſweet and good Nature is a mighty apt Diſ<g ref="char:EOLhyphen"/>poſition to Religion; and in truth, one is but the Perfection of the other. The great purpoſe of Reli<g ref="char:EOLhyphen"/>gion, is to refine and ſublimate Humane Nature, and to reduce it to its primitive Standard; in which the Firſt <hi>Adam</hi> was as Eminent for all the Sweetneſſes of Nature, as for Innocence, and therefore one, be<g ref="char:EOLhyphen"/>cauſe he was the other.</p>
+            <p>And it is worth obſerving, That the Second <hi>Adam,</hi> who came to reſtore us to the true ſtate of our Nature, as well as to reconcile that Nature to God, was himſelf the brighteſt and moſt matchleſs Inſtance of Good-nature that ever ſhined in the World: So ſweet and obliging in his Deportment, ſo kind and courteous in his Converſation, ſo affable and eaſie of Addreſs, ſo exorable and ready to do good when ſollicited to it, ſo obliging to all, and ſo ſharp to none; unleſs it were to thoſe Fanatick Zealots, the <hi>Phariſees,</hi> a Sect of the moſt peeviſh, moroſe, proud, ſupercilious Perſons that ever pretended to Religion in the World; all whoſe Religion conſiſted only in a ſtarch'd Formality, in extolling themſelves, and cenſuring and condemning
+<pb n="6" facs="tcp:96547:5"/> all others, who indeed were the ſhame of Religion, and their Lives the ſharpeſt Satyr againſt it; and who (together with all of their rude, boiſterous, un<g ref="char:EOLhyphen"/>charitable Temper) are the unfitteſt of all Men to pretend to Heaven, where nothing but Love and Peace dwells; that is to ſay, where Good-nature ſhines in its Perfection, and is advanced indeed to the Image and Likeneſs of God, that Univerſal Source of Sweetneſs and Love, who is <hi>kind to all, and whoſe tender mercies are over all his works,</hi> whoſe Catholick Bounty like his own <hi>Sun ſhines upon all,</hi> and embraceth in its arms of love the whole Creation.</p>
+            <p>This is that happineſs of Nature that is not only ſo aptly and nearly diſpoſed to Religion, but is indeed the very anticipation of it: That ſoft, mellow, and well-prepared Ground in which thoſe tender Seeds of Reli<g ref="char:EOLhyphen"/>gion and Vertue eaſily grow, and happily flouriſh, that would be loſt and die in the rugged and the churliſh.</p>
+            <p n="2">2. Another Advantage to Religion that <hi>Great Men</hi> enjoy above others, is that of a Timely, Generous Edu<g ref="char:EOLhyphen"/>cation; which when it is joined with the former, is ſuch an Advantage to Religion as can hardly be de<g ref="char:EOLhyphen"/>feated.</p>
+            <p>The care of Educating Children in ſome becoming meaſure, can hardly be ſuppoſed to be neglected in ſuch a Place as this, where the Obligations of Nature are ſo ſtrengthned by the Sanctions of Religion, and where to fail is counted ſuch a ſcandalous Degeneracy from both.</p>
+            <p>But yet it muſt be confeſs'd, that ſome Parents lie under ſuch narrow and pinching Circumſtances, that their Care cannot extend far: And it is not to be
+<pb n="7" facs="tcp:96547:5"/> thought, that thoſe who are ſo hard put to it to provide Neceſſaries for their Bodies, ſhould do very much to<g ref="char:EOLhyphen"/>wards cultivating and adorning their Minds.</p>
+            <p>But where the Inclinations of Nature are advantaged with all the ſupplemental Aids of Fortune, ſo that Pa<g ref="char:EOLhyphen"/>rents are every way able to do that for their Chil<g ref="char:EOLhyphen"/>dren, which they feel themſelves ſo ſtrongly prompted by Natural Affection to do; yea, and where giving a Man Generous Education, is even an inſtance of Gentility it ſelf, and one thing by which a Gentleman is diſtinguiſhed as much from, as he is exalted above others of a meaner Character, there to be wanting in this, would be as great a blemiſh to Himſelf, as an injury to his Children.</p>
+            <p>And how far ſoever the Age may be thought to be degenerated, yet (God be praiſed) it is not ſo wholly ſunk into Brutality, but that there is ſo ſtrong a ſenſe of the Excellency of Vertue, as well as meanneſs of Vice, upon the worſt Mens Minds, that he that is the lewdeſt Proſtitute to Wickedneſs himſelf, yet would willingly have his Children better principled, than to follow his looſe Example.</p>
+            <p>It is a very common thing to ſee thoſe that have but very little regard to Religion themſelves, yet to be as careful to give their Children good and generous Edu<g ref="char:EOLhyphen"/>cation, as thoſe that are the ſtricteſt Votaries to it. How much ſoever Men indulge Lewdneſs and De<g ref="char:EOLhyphen"/>bauchery in themſelves, yet they love not to ſee it in others, much leſs in ſuch dear and near Relations.</p>
+            <p>Now under a Generous Education, I comprehend a Care of their Souls, as well as of their Bodies; a cultivating the inward part, as well as adorning the outward; a framing them to act becomingly in
+<pb n="8" facs="tcp:96547:6"/> their Moral, as well as to be accompliſhed in all the Modes of Civil Converſation. For this is that principal part of Education, which reſpects them in their principal Intereſt, and to which our Re<g ref="char:EOLhyphen"/>ſpects to our Children to do moſt indiſpenſibly oblige us.</p>
+            <p>This, we know, is done by informing their Un<g ref="char:EOLhyphen"/>derſtandings with all uſeful Knowledge, by inſtilling into their Minds the excellent Precepts and Rules of Good-living, and by backing theſe with all thoſe charming Arguments and Motives that may affect their Wills, and influence their Affections, and ſet that noble Machine into that regular and harmo<g ref="char:EOLhyphen"/>nious way of Acting, which was intended by that God that ſo curiouſly framed it.</p>
+            <p>Now this is ſo mighty an Advantage to Religion and Vertue, that there wants nothing but that Grace of God (which is extended to all) to faſten and make it effectual. This is indeed the foreſtalling Vice, and prepoſſeſſing as well as fortifying Nature againſt the Inſinuations of it. It is making Vertue even connatural to the Soul; and laying ſuch powerful Obligations to it upon the Mind, that a Man muſt offer force and violence to himſelf, before he can break through them.</p>
+            <p>And certainly were there not ſome ſtrange Magick and even plain Faſcination in Lewdneſs and Vice, it were hardly to be thought, that a Gentleman of Generous and Vertuous Education could ſo unravel the whole contexture of his Nature, act ſo contrary to his own imbibed Principles, ſtifle the Sentiments and clear Light of his own Mind, break through the Checks and Reſtraints of his own Conſcience, and
+<pb n="9" facs="tcp:96547:6"/> offer a plain Rape to his own Virgin-Modeſty, as to turn Proſtitute to Vice; for he muſt do all theſe things, before he can allow himſelf to become the other.</p>
+            <p>The wiſe Men of all Ages have thought good Edu<g ref="char:EOLhyphen"/>cation the ſureſt way to fix young Perſons in the pre<g ref="char:EOLhyphen"/>poſſeſſions of Vertue, and preſcribed it as that which would hardly miſcarry. And <hi>Solomon,</hi> not only the Wiſeſt of Men, but that was guided by a Divine Spirit too, recommends it upon this Reaſon, <hi>Prov.</hi> 22.6. <hi>Train up a child in the way he ſhould go; and when he is old, he will not depart from it.</hi> The truth is, he hardly can <hi>depart</hi> from it, and he muſt offer great violence to himſelf before he can.</p>
+            <p>Humane Nature (notwithſtanding all the crys of its Degeneracy) is not ſo depraved (God be praiſed) but that it is capable of good impreſſions as well as bad; and at firſt, to be ſure, it is as a fair Paper, upon which Good may be written as well as Evil: And when vertuous Inclinations are fixed by prudent Inſtitution, it will not be eaſie to act contrary to them. However, let what violence will or can be laid upon them, they will ever and anon be felt, and ſtill be ſtrugling to regain their freedom, and reduce the Man to the firſt ſweetneſs and innocency of his Nature.</p>
+            <p>And ſtill the more generous and careful that the Education hath been, the ſtronger will theſe good Diſpoſitions be; and (but that we ſometimes ſee the contrary) ſuch as might well be thought morally impoſſible to be ſuppreſſed.</p>
+            <p>And this is thought ſo generally true, that when<g ref="char:EOLhyphen"/>ever a Youth miſcarries, it, is commonly imputed to ſome fault in the Parent, and to ſome defect in his
+<pb n="10" facs="tcp:96547:7"/> Education: But when there is the miſcarriage of one whom all Men know to have had all due Care beſtowed upon him by the other; the Strangeneſs of it as much ſurpriſeth with Wonder, as the Miſery of it extorts the Compaſſion and Tears of the ſad Spectators.</p>
+            <p n="3">3. Another great Advantage that <hi>Great Men</hi> have of <hi>knowing the way of the Lord,</hi> &amp;c. above other Men, is Time and Leiſure to inform themſelves in it.</p>
+            <p>
+               <hi>Time</hi> is one of the moſt valuable Treaſures that God hath entruſted Mankind with; though (like other of his Bleſſings) Men ſeldom know how to eſteem it, till they come to want it: And though it be certainly true, that all Men enjoy ſo much of this, as is abſolutely neceſſary to all the great Purpoſes of Life, and the diſcharge of all the neceſſary Affairs of their reſpective Callings; yet it is evident, that (like other Gifts of Providence,) it is differently diſpenſed, ſo that ſome enjoy more, and ſome leſs.</p>
+            <p>The Generality, and Common Sort of Men, that the Prophet was to ſearch among in the <hi>broad places,</hi> lie under the burthen of <hi>Adam</hi>'s Curſe, and <hi>in the ſweat of their faces muſt eat bread;</hi> and moſt of them are forced to tug hard, ſome in one way, and ſome in another, before they can get it to eat: So that the common Excuſe that is made for Mens neglect of Re<g ref="char:EOLhyphen"/>ligion, becauſe of the Hurries and neceſſary Avocations of Worldly Buſineſs, ſounds better in their mouths, and is more reaſonably admitted from them.</p>
+            <p>But <hi>Great Men</hi> are in a great meaſure exempted from this common tribute of Humanity: Their Bread is got to their hands; and that Time which others are
+<pb n="11" facs="tcp:96547:7"/> forced to ſpend in getting of it, lies upon their hands, and is as a Ready-Stock to be employed to Nobler Purpoſes: They are manumitted from the Labour of the Field, or the Attendances of the Shop; ſo that that Time which others do and muſt expend in theſe, is to them a ſurpluſage for the Study, or the Cloſet, and for improving their Minds by Reading and Medi<g ref="char:EOLhyphen"/>tation in the one, and by Devotion in the other.</p>
+            <p>The truth of this is notorious to all, and I ſhould but be impertinent, and waſte Time my ſelf, in inſiſt<g ref="char:EOLhyphen"/>ing further on it. <hi>Time</hi> is a Treaſure that <hi>Great Men</hi> enjoy in meaſures above the Populace, as eminently as any others.</p>
+            <p>Now it is little leſs notorious, what an Advantage it is to all the great Purpoſes of Religion, to have ſuch vaſt portions of Time, which they can eaſily ſpare to the Exerciſes of it, or which they will ſpare to worſer purpoſes.</p>
+            <p>And it would be a woful thing, and that which muſt one day be ſadly accounted for, if this precious Trea<g ref="char:EOLhyphen"/>ſure ſhould be wholly miſ-ſpent and ſquander'd away, if the Comb and the Glaſs in the Morning, or the Stage and empty Viſits in the Evening, ſhould ingroſs that Time which God hath allotted to one Sex for Devotion in the Cloſet and the Church; or Sports and vain Re<g ref="char:EOLhyphen"/>creations, or much worſer Entertainments, ſhould raviſh away all that ſpare Time, which the other Sex hath allotted them to the ſame purpoſes.</p>
+            <p>A wiſe Man, that hath never ſo much Buſineſs in<g ref="char:EOLhyphen"/>cumbent on his hands, yet may ſo adjuſt the portions of his Time, as to reſerve enough for the Exerciſe of Religion: And he that hath learned in any meaſure how to <hi>redeem his time,</hi> can eaſily ſpare enough for
+<pb n="12" facs="tcp:96547:8"/> the Service of his God, without intrenching at all upon his ſecular Neceſſities.</p>
+            <p>But <hi>Great Men</hi> need not ſtudy this Art, nor be put to any difficulty in accommodating thoſe Intereſts, between which there is no competition at all. It is but a little Time, that ſurveying their Eſtates, and taking the neceſſary Accompts of them, or ſerving their King and Country, doth neceſſarily employ; and he that is moſtly confined to theſe, yet hath great portions of Time, which he not only may reſerve from them, but which do indeed lie upon his hands, and therefore not only may be employed to the purpoſes of Religion, but great part of which muſt be ſo, or elſe the miſ-ſpending of them muſt be anſwer'd for another day. And as for others that are not yet cal<g ref="char:EOLhyphen"/>led to theſe high Stations, they have commonly ſo much Time as ſeems to lie as a burthen upon them; ſo that they are rather put to ſtudy how to paſs it off, than have any cauſe to complain of being ſtraitned in it.</p>
+            <p>Theſe, and many other great Advantages to Re<g ref="char:EOLhyphen"/>ligion (which might eaſily be inſtanced) <hi>Great Men</hi> enjoy above others; and the Prophet might reaſonably hope, that Men thus advantaged, might <hi>know the way of the Lord,</hi> though the Populace were ſcandalouſly ignorant and neglective of it.</p>
+            <p>
+               <hi>Secondly,</hi> And yet this was not the only Conſidera<g ref="char:EOLhyphen"/>tion that miniſtred to that Hope: For their <hi>Obligations</hi> to Religion are in proportion to their <hi>Advantages;</hi> and the guilt of failing to anſwer theſe, would be as great, as the indecency of defeating the purpoſe of the other.—This is the <hi>Second</hi> thing that I have undertaken to give ſome Account of; <hi>i. e.</hi> the <hi>Obligations</hi> to Re<g ref="char:EOLhyphen"/>ligion that lie on <hi>Great Men</hi> above others.</p>
+            <pb n="13" facs="tcp:96547:8"/>
+            <p>For it is a wild Conceit to think that Religion is only proper for Cottages and Cells, or that <hi>Great Men</hi> that are exempt from the Cares of this World, are priviledg'd from all regards to the Intereſt of the next. The Reverſe to this is the great Truth; Reli<g ref="char:EOLhyphen"/>gion is as becoming Courts as Colleges, and Vir<g ref="char:EOLhyphen"/>tue as needful for <hi>Great Men</hi> as any below them; and if there be any difference it lies really on this ſide, there lying ſtronger Obligations to Religion upon them than upon others.</p>
+            <p>I ſhall reduce what I intend to conſider on this part of my Argument, to three Heads only, as I did on the former.
+<list>
+                  <item>1. Their Obligations to Almighty God.</item>
+                  <item>2. Their Obligations to Men below them.</item>
+                  <item>3. Their Obligations to themſelves.</item>
+               </list>
+            </p>
+            <p>Great Men's Obligations to Almighty God are a<g ref="char:EOLhyphen"/>bove other Men's.</p>
+            <p>It is certain all Ranks and Orders of Men, (yea, e<g ref="char:EOLhyphen"/>very particular Perſon in any of theſe) owe ſo much to God, as the acknowledgment and utmoſt Service of their whole Life can never anſwer.</p>
+            <p>How unequally ſoever the Gifts of Providence are diſpenſs'd to Men, yet he that receives leaſt, receives more than he can be anſwerable for; for that there is no cauſe for any one to complain, but rather to be thankful.</p>
+            <p>But yet it is plain there is a ſenſible difference, and if he that receives leaſt, owes the utmoſt Service of his Life for what he receives, and yet can never diſ<g ref="char:EOLhyphen"/>charge the Obligation; ſure they that receive much more muſt owe proportionably more, if it were poſ<g ref="char:EOLhyphen"/>ſible to pay it.</p>
+            <pb n="14" facs="tcp:96547:9"/>
+            <p>Our bleſſed Lord ſpeaks of it as an allowed Rule of Equity among all Men, that <hi>to whom much is given, of him will much be required; and to whom men give much, of him they will require more,</hi> Luke 12.42. And if God Almighty will obſerve the ſame Rules in ex<g ref="char:EOLhyphen"/>pecting Duty from Men (as he ſhews in that place he will) then the eaſieſt Reaſoning will infer, that <hi>Great Men's</hi> Retributions ſhould be in ſome proportion according to the divine Donations; and their returns of Duty as much exceed thoſe of meaner Men, as the rich Man's Offerings under the Law, were to exceed the Pair of Turtle Doves, or two young Pidgeons, which were to be accepted from him that was poor.</p>
+            <p>It was the great <hi>Stagyrite</hi>'s Opinion, that <hi>Great Men</hi> and rich Men muſt needs love God: And truly if we judge by the Rules of Ingenuity and Duty, we may think ſo too; and certainly they muſt act in de<g ref="char:EOLhyphen"/>fiance to both, that fail in that Duty to which they are ſo ſignally and tranſcendently obliged. And ſurely if any <hi>Land that brings forth nothing but Bryars and Thorns be nigh to curſing;</hi> that which after ſo much cultivation doth the one, muſt needs be thought much nigher to the other.</p>
+            <p>He that had been obliged with the truſt of ten Talents, was expected to make greater Returns of Improvement, than he that had received but half ſo many, and ſtill the Returns were expected in propor<g ref="char:EOLhyphen"/>tion to their Receits.</p>
+            <p>And if in the true Reddition of the Parable, <hi>Great Men</hi> be thoſe that God hath put ſuch an Honour up<g ref="char:EOLhyphen"/>on in the Surpluſage of his Gifts above others, then the Parable will be found a true Story in the Subſequent part of it too, and the Rewards or Puniſhments will
+<pb n="15" facs="tcp:96547:9"/> be proportionably greater or leſs, according as they have anſwered, or as they have failed to anſwer what was ſo juſtly expected from them.</p>
+            <p>If they are bound to walk in the way of Righte<g ref="char:EOLhyphen"/>ouſneſs that find it ſtuck with Thorns, ſure they to whom it is ſtrowed with Roſes, and endear'd with all poſſible Allectives, ſhould do ſo much more; and if he ſhould bear <hi>precious Seed,</hi> that goeth to ſowe it <hi>weeping,</hi> certainly he that hath not only hope of the ſame <hi>ſheaves</hi> hereafter, but whoſe Seed-time is ſo e<g ref="char:EOLhyphen"/>very way pleaſant and inviting, ſhould more chear<g ref="char:EOLhyphen"/>fully do ſo.</p>
+            <p>Many a good Man ſerves God conſcionably and cheerfully in the want of many things; but one might think none ſhould fail to do this, who may do it in the <hi>abundance of all things.</hi> And if the Chil<g ref="char:EOLhyphen"/>dren of <hi>Jacob</hi> were bound to ſerve God in a dry and barren Wilderneſs, ſure their Obligations to do ſo in a fruitful and pleaſant <hi>Canaan</hi> were much ſtronger.</p>
+            <p n="2">2. Another mighty Obligation to Religion that <hi>Great Men</hi> are under above others, reſults from their Reſpect to others below them; who are ſo apt to Co<g ref="char:EOLhyphen"/>py from them, and to ſquare their Lives by thoſe Meaſures which they give them.</p>
+            <p>A mean Man's Life commonly paſſeth off without Obſervation: And as if he be Righteous the Benefit is his own, ſo if he be the contrary the harm is to him<g ref="char:EOLhyphen"/>ſelf; few are benefited much by the one, or prejudiced the other.</p>
+            <p>But <hi>Great Men</hi> move in a higher and more conſpi<g ref="char:EOLhyphen"/>cuous Sphear; and the Bleſſing or Contagion of their Example ſpreads much further. When a great Tree falls the whole Vicinage of Underwoods is bruis'd by
+<pb n="16" facs="tcp:96547:10"/> it, as well as it is guarded from the Winds, and ſha<g ref="char:EOLhyphen"/>dowed from the Heat by its ſtanding.</p>
+            <p>It were a Common-place ſubject to treat of the Power of Example, or ſtay ſhewing what force it hath in forming the Manners of Men, even above Precept and Law. There is Experience to atteſt the Truth of this in Fact, as well as there are Reaſons to give in the account of it. And if ſo, then the more conſpi<g ref="char:EOLhyphen"/>cuous and eminent that the Perſon is, the more Ope<g ref="char:EOLhyphen"/>rative will his Example be, which way ſoever it mo<g ref="char:EOLhyphen"/>veth.</p>
+            <p>The Examples of Parents, Tutors, and Maſters have a ſtrong (though ſecret Power) upon Children, Pupils, and Servants; and therefore they are oblig<g ref="char:EOLhyphen"/>ed to take great care of their own Lives and Actions, for their ſakes as well as their own.</p>
+            <p>The good Life of a Clergyman is ſaid by all to be his beſt Homily, and his good Example more effectu<g ref="char:EOLhyphen"/>al to perſwade than all his Preaching. And Woe be to him whoſe Life is a Confutation of his Doctrin, and who prejudiceth more againſt Religion by the one, than he can ever hope to endear it to them by the other.</p>
+            <p>And yet alas Clergymen are but little things now, and Men have learned to regard them but as ſuch; they move but in a little compaſs, and make but a ſmall Figure in the World, in compariſon of the <hi>Great</hi> and the Noble. Theſe are the Men truly now that are the <hi>Lights and Cities upon a Hill,</hi> that are depended up<g ref="char:EOLhyphen"/>on on by many, and obſerved by all. And as their Ex<g ref="char:EOLhyphen"/>ample will almoſt conſtrain the one ſort, ſo it will ſtrongly induce the other to Imitation. Intereſt will engage ſome, and their Eminency will incline
+<pb n="17" facs="tcp:96547:10"/> others to tranſcribe their Practice into their own Lives.</p>
+            <p>And give me leave to ſpeak a few plain words, now that I am upon this Argument. We may talk of reforming a vicious Age by good Inſtruction, and by wholſom Laws; by telling Men the danger of Sin and Vice, with reſpect to the Intereſt of another World, and by threatning to let them feel the Smart and Puniſhment of it in this. But alas, we are ſad Spectators of the Inefficacy of both; the Prophets may <hi>cry aloud</hi> till their Lungs crack, and Senators may make Laws as Penal as they can; and yet the Effect be far from anſwering the Intendment; few will <hi>be<g ref="char:EOLhyphen"/>lieve the Report</hi> of the one, and almoſt as few regard the other.</p>
+            <p>Living Sermons, and living Laws would do ſome<g ref="char:EOLhyphen"/>thing, but the Dead will be found (like other dead things) to be cold and unactive.</p>
+            <p>I am apt to think that if the wiſe Sanctions of Laws againſt Profaneſs were duly executed by the Guardians of Law, it would have ſome Effect upon ſome Men. I am Glad to have theſe Laws awakened, and Magiſtrates put in mind of their Duty by Solemn and well Pen'd Proclamations, and I think God Al<g ref="char:EOLhyphen"/>mighty ought to be prais'd that puts it into the Heart of the Supreme Authority of the Nation, to think the ſuppreſſing Vice and Profaneſs, a Matter worthy of their greateſt Care. But ſurely it is a mean thing, and that which looks little better than like mocking of God and the World too, to make good Laws, and put forth Proclamations for the Executi<g ref="char:EOLhyphen"/>on of them, and yet never to regard or think of them more. It is worthy enough of Blame, to ſee thoſe
+<pb n="18" facs="tcp:96547:11"/> that ſhould be the Prince's Hands, to put Laws a<g ref="char:EOLhyphen"/>gainſt Vice in Execution, to connive at the daring Committers of it in all places; but it is worſe to ſee thoſe very Perſons openly and Scandalouſly commit it themſelves, which yet I doubt may be ſeen in ſome.</p>
+            <p>But I withdraw. I was ſaying that if the wiſe San<g ref="char:EOLhyphen"/>ctions of Laws were duly executed, it would have effect upon ſome; but I ſay now, if the Virtues re<g ref="char:EOLhyphen"/>commended by Laws, were recommended too by the Lives of the Lawgivers, it would certainly have effect upon all.</p>
+            <p>
+               <hi>Moſes</hi> and his Succeſſors had the Holy Unction up<g ref="char:EOLhyphen"/>on the Head, as well as <hi>Aaron,</hi> and thoſe that Suc<g ref="char:EOLhyphen"/>ceeded to him; and if that Oyntment did not only ſtay there, but reach the next adjoyning Parts, and thence deſcend even to the <hi>Skirts of his Cloathing,</hi> it would be found Sanative indeed, and ſoon Imprint a Divine Character upon all.</p>
+            <p>And (to go on with the Alluſion in the ſame Pſalm) if that prolifick <hi>Dew which falls upon the top of Hermon,</hi> did both Water <hi>the Hills of Zion,</hi> and the next adjoyning Exaltations, and thence deſcend e<g ref="char:EOLhyphen"/>ven to the loweſt Vallies beneath them; the Proſpect would ſhew lovely indeed; the Top would look beau<g ref="char:EOLhyphen"/>tiful and verdent, the Declenſions would be adorned with Trees and Fruit, <hi>the Vallies would even laugh and ſing</hi> under their Burthens of Corn, and the whole be happy as a Hill, or as a Field which the Lord had bleſſed.</p>
+            <p>When the Sun ſhines clear, and enlivens the World by its warm Rays; and when the Stars regu<g ref="char:EOLhyphen"/>larly impart thoſe Balſamick Influences which
+<pb n="19" facs="tcp:96547:11"/> they receive from him, to the lower World, we ſee how comfortable and happy the Effects are. But when black Clouds obſcure that Sun, Storms and Showers ſoon follow; and when ſhaggy Comets climb up into the Region of the Stars, and by their preternatural Corruſcations, or noxious Contagi<g ref="char:EOLhyphen"/>ons infect the Air, then all Men dread the Omen, and Plagues, and Blaſting, Scarcity and Droughts uſual<g ref="char:EOLhyphen"/>ly follow, and juſtifie their Fears.</p>
+            <p>It is thus in the moral World, my Brethren, as well as Natural, when the ſuperior Orbs move regu<g ref="char:EOLhyphen"/>larly, all things below act Harmoniouſly to their Motions. When <hi>Kings become nurſing Fathers</hi> to the Church, and by their own Conſcience and regard to Virtue and Devotion, bring it into Credit and Fa<g ref="char:EOLhyphen"/>ſhion: When the great <hi>Mountains having brought Peace, the little Hills ſhall teach Righteouſneſs to the People;</hi> then we may begin to hope well; then there may be ſome likelyhood of the Kingdoms of the World becoming the Kingdoms of God and his Chriſt, and then we may talk more reaſonably of a Millennium.</p>
+            <p>Happy are they that live under ſuch Divine and Heavenly Influences; but thrice happy are they that tranſmit them: The bleſſed Effects will be viſible up<g ref="char:EOLhyphen"/>on Earth, but their Reward is with their God: And that opens the way to.</p>
+            <p n="3">3. The third and laſt great Obligation upon <hi>Great Men</hi> to Religion, which I ſhall mention at this time, and that is, the Obligation to themſelves, and the re<g ref="char:EOLhyphen"/>ſpect they ought to have to their own Intereſt.</p>
+            <p>It is certain, Religion and Virtue is a thing of uni<g ref="char:EOLhyphen"/>verſal Advantage, and all Ranks of Men would find
+<pb n="20" facs="tcp:96547:12"/> their Accounts in it, whatever is really the Intereſt of any Man, with reſpect either to the preſent, or fu<g ref="char:EOLhyphen"/>ture ſtate of things would certainly be found by a due regard to it. So that in truth, every Man is ſo far regardleſs of his own true Happineſs, or ſo far conſults for it by improper means, as he is regard<g ref="char:EOLhyphen"/>leſs of Religion, or acts contrary to it.</p>
+            <p>But perhaps there may be reaſon to ſay, that <hi>Great Men's</hi> Obligation to Religion (even upon this Rea<g ref="char:EOLhyphen"/>ſon) may be more preſſing, than that upon other Men.</p>
+            <p>In this World it is plainly ſeen to be thus, for they have Honour and Grandeur to conſult for more than others, which to them ought to be as dear as their Lives; it being the only Firmament upon which their Diſtinction from others is Founded. And tru<g ref="char:EOLhyphen"/>ly I ſee not why their Intereſt as to another World, may not be thought ſo too, I mean their Happineſs and Glory if they be Religious, or their Puniſh<g ref="char:EOLhyphen"/>ment and Miſery if they be not, greater than that of others. Let me crave leave to repreſent theſe two diſtinctly in a few words.</p>
+            <p n="1">1. Their Obligation to themſelves, with reſpect to this World, and all their valuable Intereſts in it; 'tis certain Religion and Virtue is the only Teleſme to ſecure all theſe; <hi>Godlineſs hath the Promiſe of this World, as well as that to come,</hi> (ſaith St. <hi>Paul;</hi>) and it can be demonſtrated upon true Reaſon, that it is the ſureſt Expedient to whatever is any true part of Man's preſent Happineſs.</p>
+            <p>I will Inſtance but in one of theſe, becauſe it is peculiar to <hi>Great Men,</hi> and that is true Honour. This, (as I ſaid but now) is the great darling Intereſt of
+<pb n="21" facs="tcp:96547:12"/> 
+               <hi>Great Men,</hi> and ought to be dear to them above all things, next to their God. So that a Proteſtation up<g ref="char:EOLhyphen"/>on Honour from a Nobleman, is counted as Sacred and Obligatory, as an Oath immediately to God from other Men.</p>
+            <p>Now it is certain the only true Foundation and Support of this is Religion and moral Goodneſs; this makes a Man really what he ſhould be; yea, and cauſeth him to be Eſteemed, Valued and Honoured as ſuch by all others.</p>
+            <p>Great Men's high Titles, Offices and Stations may juſtly challenge external Reſpect from others below them; but it is Enamelling thoſe Characters and Titles by real Virtue, that engageth their inward Re<g ref="char:EOLhyphen"/>ſpect and Reverence, and we need but conſult com<g ref="char:EOLhyphen"/>mon Obſervation to juſtifie this. A <hi>Great Man</hi> may be ſtar'd at, and Conju'd to by ſome for his glitte<g ref="char:EOLhyphen"/>ring Garb, his Retinue, or his high Character; but a <hi>Great good Man</hi> is Loved, Adored, and Honoured by all. Let me have leave, without Offence, to ſhew the difference in a ſingle Inſtance or two.</p>
+            <p>What a vaſt difference is there in the Eſteem and Honour Men have for thoſe Noblemen, at whoſe Gates Troops of the Poor and Needy are daily Reliev<g ref="char:EOLhyphen"/>ed, from what they have for thoſe at whoſe Gates as great Crowds of poor Creditors are daily waiting and crying? What Complaints and Curſes are the one perſued with, while the others are followed with Bleſſings and Prayers?</p>
+            <p>The difference is as viſible in all other particulars of Virtue and Vice, as well as theſe. <hi>One dead Fly cauſeth the Oyntment to ſtink,</hi> (ſaith King <hi>Solomon</hi>) and we ſee it true. What a Stain doth our known Vice
+<pb n="22" facs="tcp:96547:13"/> bring upon their Names! and what a Rebatement is it of their Glory! what a Leſſening is it of <hi>Great Men,</hi> what a Debaſement of the Noble, to ſee them compaſſed about with the <hi>Wickedneſs of their Heels,</hi> and Sullied with the Vices of Grooms and Porters!</p>
+            <p>We may conclude how it is at preſent while they live, by conſidering how it is with thoſe that are dead; how have the Great, the Valiant, the Virtu<g ref="char:EOLhyphen"/>ous and brave Men Embalmed their Names, and with what Honour are they remembred in the Records of Time! Their Monuments are beheld with Reverence, and paſſers by Salute them, with <hi>a Peace be upon him,</hi> as the <hi>Jews</hi> did, and all Eaſtern Nations do to this day, while <hi>the Name of the Wicked ſhall rot,</hi> (ſaith the Wiſe King) their Ermins are ſtain'd, and their Memories often deteſted, they fix a Blemiſh even up<g ref="char:EOLhyphen"/>on their Poſterity; and if their Names be found Written in the Annals of their Nation, there is al<g ref="char:EOLhyphen"/>moſt always ſome Note of Infamy ſticks upon them.</p>
+            <p n="2">2. And yet there is a greater Intereſt that this O<g ref="char:EOLhyphen"/>bligation reſults from, and that is the Happineſs or Miſery of another World; for even thoſe that <hi>are called Gods muſt dye like Men,</hi> and <hi>Princes muſt fall</hi> as well as the People, and then they muſt enter upon an everlaſting State, and be happy and bleſſed, or miſerable and puniſhed as truly as other Men.</p>
+            <p>Now the great God hath aſſur'd us, that Religi<g ref="char:EOLhyphen"/>on only makes the diſtinction, entitling Men to one, and ſecuring from the other, and every Man finds ſomething in himſelf that atteſts to this Truth; the higheſt of Men feel Preſages and Boadings of this in their own Breaſts, as ſenſibly as thoſe below them.
+<pb n="23" facs="tcp:96547:13"/> Greatneſs is ſo far from ſecuring Men from a Senſe of Guilt, that it ſets it on more ſharply; and even thoſe are haunted with Fears of a future Puniſhment, that are ſet above all Fear or Danger of any now.</p>
+            <p>And the Holy Scriptures repreſent this moſt fully, according to thoſe Jealouſies or Hopes of Mens own Minds, aſſuring us that the Holy and Good, the Charitable and Juſt <hi>ſhall ſee God,</hi> while <hi>the Wicked ſhall be turned into Hell with all that forget God.</hi>
+            </p>
+            <p>And it is worth obſerving, that it makes no dif<g ref="char:EOLhyphen"/>ference, or ſhews any <hi>Reſpect of Perſons;</hi> it doth not tell us that God hath appointed different Terms of Salvation, or made it poſſible for <hi>Great Men</hi> to be ſaved upon eaſier Conditions than others; it ſeems rather to determine the Caſe the other way, and (as I ſaid before) to require more from them who have received more, rather than to be content with leſs.</p>
+            <p>Now this ſurely is a Conſideration of great Weight indeed, and that which ought to have Ef<g ref="char:EOLhyphen"/>fect accordingly, ſuppoſing their Caſe but equal with others; for it will be a woful thing, when thoſe that have <hi>received their good things</hi> in this Life, ſhall receive none but <hi>Evil</hi> in the next; and thoſe that have been Exalted almoſt above Men in the one, ſhall be depreſſed as low as Devils in the o<g ref="char:EOLhyphen"/>ther.</p>
+            <p>But if the Caſes be really different, then it ſhould ſtrengthen the Conſideration, and make it more affecting, for then the greater Bleſſing and Re<g ref="char:EOLhyphen"/>ward on one hand, or the greater Damnation and Puniſhment on the other, is to be expected or fear'd.</p>
+            <pb n="24" facs="tcp:96547:14"/>
+            <p>For as it may reaſonably be ſuppoſed, that the Religion and Virtue of Princes and <hi>Great Men,</hi> that after all that hath been ſaid (it muſt be confeſſed) doth break through many Temptations, and ſome Difficulties, and Benefits ſo many beſide them<g ref="char:EOLhyphen"/>ſelves, is more acceptable to God, and ſhall accord<g ref="char:EOLhyphen"/>ingly be rewarded above that of others: So it may upon the ſame Reaſons be concluded, that their Irreligion and Profaneſs is more deteſted, and ſhall proportionably be more ſeverely Pun<g ref="char:EOLhyphen"/>iſhed.</p>
+            <p>And then it will be a woful Caſe indeed, when the good Things ſhall not only be Converted in<g ref="char:EOLhyphen"/>to Evil, but even into worſe, becauſe they have been good; and the Suffering and Damnation be intended and heightened hereafter, in proportion to the Bleſſings that were enjoyed here; when thoſe that were ſo much raiſed above other Men in this World, ſhall be ſunk as much below them in the next; when the Poor and Mean, the Deſpiſ<g ref="char:EOLhyphen"/>ed and Contemned ſhall enter into the <hi>Kingdom of God,</hi> while the Noble and the <hi>Great</hi> ſhall not only be <hi>ſhut out,</hi> but caſt into eternal Horror and Dark<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>This is a Condition that it highly concerns all that can conſider things to beware of, and much more thoſe who are ſo much Advantaged with A<g ref="char:EOLhyphen"/>bilities and Parts to conſider, if the Mean and Groſ<g ref="char:EOLhyphen"/>ſer ſort of Mankind, who are thought to be but one Degree above Bruits, if the Poor and Needy that are broken with Thoughts and Cares of providing Bread, if the Laborious and Buſtling, who are
+<pb n="25" facs="tcp:96547:14"/> Condemned to perpetual Labour and Drudgery for a Subſiſtence: If any of theſe, (I ſay) lived regard<g ref="char:EOLhyphen"/>leſs of another World, and the Intereſts of it, the Wonder were leſs.</p>
+            <p>But if thoſe whoſe Minds are Refined and Po<g ref="char:EOLhyphen"/>liſhed both by Nature and Art, and are under none of thoſe preſſing Neceſſities which hinder the O<g ref="char:EOLhyphen"/>perations of the Mind, ſhould be as Regardleſs and Stupid as they: If they that have every thing needful for the Conveniencies and Comforts of this Life provided to their Hand, ſo that they have nothing in compariſon to take care of but that to come; ſhould yet live inſenſible of it, and ſo as to forfeit for ever the Happineſs thereof, it would be ſtrange indeed, and ſuch a Reflection upon their Reaſon and Prudence, as we want a Name to ſet forth the Greatneſs of.</p>
+            <p>And (to conclude this ſad Reflection) if the poor Prophet ſhould miſcarry in his Search for a good Man among theſe, no Tears were ſufficient to be<g ref="char:EOLhyphen"/>wail the Diſappointment.</p>
+            <p>But I am reſolved this Diſcourſe ſhall not ſet in a Cloud, nor proceed to tell any Stories of ſuch a Diſappointment. <hi>I hope better things</hi> of thoſe that hear me, and this ſolemn Religious Appearance Miniſters to that Hope.</p>
+            <p>Thoſe that ſhew ſo much regard to Religion, as thus becomingly to attend theſe ſolemn Ser<g ref="char:EOLhyphen"/>vices of it, I hope retain a ſuitable Reſpect to it in their Minds, and are ſenſible how much it concerns them, to Govern their Lives in ſome competent Degree by the Holy and Divine Mea<g ref="char:EOLhyphen"/>ſures of it.</p>
+            <pb n="26" facs="tcp:96547:15" rendition="simple:additions"/>
+            <p>Thoſe that <hi>know the way of the Lord,</hi> I hope walk in it. And thoſe that have learned <hi>the Judgments of their God,</hi> I ſtill hope will live according to them. Which may the Grace of God ever incline, and enable them to do in this World, and may the ſame Grace ever<g ref="char:EOLhyphen"/>laſtingly reward them in that to come. <hi>Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
